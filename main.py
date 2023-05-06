@@ -13,6 +13,8 @@ def get_pessoas():
         )
     )
 
+
+
 @app.route('/pessoas', methods=['POST']) # decorator para o método POST
 def create_pessoa():
     pessoa = request.json # recebe pessoa
