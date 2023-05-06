@@ -107,6 +107,6 @@ Para visualizar o dado inserido, basta realizar a operação GET novamente.
 }
 ```
 
-Porém, utilizar o programa dessa forma tem um problema. Assim que eu reiniciá-lo, todos os dados adicionados são apagados. Por isso, existe a necessidade de um banco de dados para armazená-los.
+Porém, utilizar o programa dessa forma tem um problema. Assim que reiniciá-lo, as informações adicionadas são perdidas. Por isso, existe a necessidade de um banco de dados para armazenamento dessas informações.
 
 # Banco de dados
