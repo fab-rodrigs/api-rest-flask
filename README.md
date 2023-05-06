@@ -14,11 +14,11 @@ Para executar essa API, é necessário a instalação do Flask, que pode ser fei
 pip install flask
 ```
 
-Com o Flask instalado, é possível executar o código, que estará rodando localmente no seguinte endereço:
+Com o Flask instalado é possível executar o código, que estará rodando localmente no seguinte endereço:
 
 http://127.0.0.1:5000
 
-A visualização pode ser feita criando uma API Request no Postman, e utilizando o seguinte endereço:
+A visualização pode ser feita criando uma API Request no Postman e utilizando o seguinte endereço:
 
 http://127.0.0.1:5000/pessoas
 
