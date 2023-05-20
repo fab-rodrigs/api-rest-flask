@@ -110,3 +110,5 @@ Para visualizar o dado inserido, basta realizar a operação GET novamente.
 Porém, utilizar o programa dessa forma tem um problema. Assim que reiniciá-lo, as informações adicionadas são perdidas. Por isso, existe a necessidade de um banco de dados para armazenamento dessas informações.
 
 ## Banco de dados
+
+O banco de dados foi criado com auxílio da biblioteca SQL Alchemy.
